@@ -8,7 +8,7 @@ Sxy  second invariant of marker stress
 markgii accumulated plastic strain
 markbii accumulated bulk strain
 
-1) Compile maylib.c using: 
+1) Compile mylib.c using: 
 gcc -Wall -pedantic -shared -fPIC -o mylib.so mylib.c
 
 2) compile main_b.pyx and uilib.pyx using: 
