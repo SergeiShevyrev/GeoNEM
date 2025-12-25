@@ -1,3 +1,4 @@
+GeoNEM (Geodynamic Numeric Environmental Modeling)
 
 That folder hosts the marker in cell (MIC) computational model initially developed in Matlab by Taras Gerya and then ported into Python/Cython by Sergei L Shevyrev (fegi.ru).
 
